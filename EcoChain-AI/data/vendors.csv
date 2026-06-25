@@ -1,0 +1,6 @@
+id,name,industry,country,carbon_score,compliance_status
+1,GlobalTech Supplies,Technology,USA,85,Compliant
+2,EcoPaper Corp,Manufacturing,Canada,92,Compliant
+3,FastShip Logistics,Transportation,UK,60,Under Review
+4,SteelWorks Inc,Construction,Germany,45,Non-Compliant
+5,GreenEnergy Solutions,Energy,Sweden,98,Compliant

@@ -1,0 +1,8 @@
+google-adk
+google-genai
+streamlit
+mysql-connector-python
+pandas
+python-dotenv
+pymupdf
+mcp
