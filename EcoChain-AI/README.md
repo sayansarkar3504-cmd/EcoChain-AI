@@ -12,6 +12,7 @@ Using **Google Gemini, Agent Development Kit (ADK), Model Context Protocol (MCP)
 <img width="1901" height="912" alt="Image" src="https://github.com/user-attachments/assets/222228fd-7a23-4b3f-a71a-90e254aa97a9" />
 <img width="1889" height="911" alt="Image" src="https://github.com/user-attachments/assets/cad40d72-6ae7-49ba-84fb-4e10763980d5" />
 <img width="1904" height="909" alt="Image" src="https://github.com/user-attachments/assets/687c00e3-8cc3-4e1b-94d6-5e95984192b6" />
+<img width="1875" height="887" alt="Image" src="https://github.com/user-attachments/assets/d67392ce-fe6a-4c73-8af6-1a597f62c8e8" />
 # 🚨 Problem Statement
 
 Modern enterprises collaborate with thousands of suppliers.
